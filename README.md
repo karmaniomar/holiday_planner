@@ -20,7 +20,7 @@ The **Holiday Planner** is a Python-based application designed to help users pla
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/holiday-planner.git
+   git clone https://github.com/karmaniomar/holiday_planner.git
    cd holiday-planner
    ```
 
@@ -141,8 +141,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries, please contact:
-- **Email**: support@holidayplanner.com
-- **Phone**: +1 (800) 123-4567
+- **Email**: omar.karmani93@gmail.com
 
 ---
 
